@@ -26,7 +26,8 @@ Model includes:
 4. SciPy 
 5. Scikit-learn 
 6. Matplotlib & Seaborn 
+7. wandb
 
 
  ## Design
-![low level design](h20_pipeline.jpg)
+![d](files/pipeline.jpg)
