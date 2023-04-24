@@ -1,7 +1,7 @@
 # 🌬️ Air quality index forecast for Indian cities
 
 ## About 
-This project forecast the air quality index(AQI) of 40 stations across 6 Indian states
+This project forecast the air quality index(AQI) of 40 stations across 6 Indian states for the next 28 days
 
 Developed as part of the h20.ai hackathon, this model secured the 🥉 3rd place on the Leader Board. 
 
